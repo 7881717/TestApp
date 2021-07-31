@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestAppJava</string>
+    <string name="kotlin">Котлин - это остров?</string>
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+
+    <string name="correct_answer">Правильный ответ</string>
+    <string name="incorrect_answer">Неправильный ответ</string>
+
+
+
+</resources>
